@@ -1,0 +1,25 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.container{
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+	width:80%;
+	
+}
+.card{
+	width:25%;
+}
+.card img{
+	width:100%;
+}
